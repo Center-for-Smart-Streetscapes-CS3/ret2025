@@ -17,3 +17,19 @@ July 15
   : **Reading**{: .label .label-yellow }[Calculus on Computational Graphs: Backpropagation ](https://colah.github.io/posts/2015-08-Backprop/)
   : **Demo**{: .label .label-blue }[The NAND Game](https://nandgame.com/)
   : **Reading**{: .label .label-yellow }[The NAND Game Solutions](https://github.com/timlg07/NandGame-Solutions/blob/master/Solutions.md)
+
+July 16
+: **Lecture**{: .label .label-purple }Lesson Plan Brainstorming
+  : **Data**{: .label .label-blue }[NYC OpenData](https://opendata.cityofnewyork.us/)
+  : **Data**{: .label .label-blue }[NYC TMC](https://webcams.nyctmc.org/map)
+  : **Data**{: .label .label-blue }[Ultralytics Datasets](https://docs.ultralytics.com/datasets/)
+  : **Data**{: .label .label-blue }[HuggingFace Datasets](https://huggingface.co/datasets)
+: **Lecture**{: .label .label-purple }Machine Learning
+  : **Reading**{: .label .label-yellow }[Overview of Machine Learning Algorithms](https://keremturkcan.com/projects/ai_flowchart.html)
+  : **Reading**{: .label .label-yellow }[Overview of Machine Learning Tasks](https://keremturkcan.com/projects/ai_flowchart_2.html)
+  : **Reading**{: .label .label-yellow }[Model Evaluation: Training, Validation and Testing](https://drive.google.com/file/d/17m3T5Un_kiaWvDtrL_Zcg7k2L7OwaPbE/view?usp=drive_link)
+: **Lecture**{: .label .label-purple }Computer Vision
+  : **Handout**{: .label .label-red }[Introduction to Convolutional Neural Networks](https://drive.google.com/file/d/1LZN7U4ivJ0I3Kx3Klajt3oNNy-CFmsXY/view?usp=drive_link)
+  : **Demo**{: .label .label-blue }[MNIST Fully Connected Network](https://adamharley.com/nn_vis/mlp/2d.html)
+  : **Demo**{: .label .label-blue }[MNIST Convolutional Neural Network](https://adamharley.com/nn_vis/cnn/2d.html)
+  : **Reading**{: .label .label-yellow }[Convolutional Neural Networks Explained](https://poloclub.github.io/cnn-explainer/)
