@@ -24,7 +24,10 @@ July 16
   : **Data**{: .label .label-blue }[NYC TMC](https://webcams.nyctmc.org/map)
   : **Data**{: .label .label-blue }[Ultralytics Datasets](https://docs.ultralytics.com/datasets/)
   : **Data**{: .label .label-blue }[HuggingFace Datasets](https://huggingface.co/datasets)
+
+July 17
 : **Lecture**{: .label .label-purple }Machine Learning
+  : **Handout**{: .label .label-red }[Concepts in Deep Learning](https://drive.google.com/file/d/18Qt7eIgb_VKepUzsQlzW9hBCYPAb-85k/view?usp=drive_link)
   : **Reading**{: .label .label-yellow }[Overview of Machine Learning Algorithms](https://keremturkcan.com/projects/ai_flowchart.html)
   : **Reading**{: .label .label-yellow }[Overview of Machine Learning Tasks](https://keremturkcan.com/projects/ai_flowchart_2.html)
   : **Reading**{: .label .label-yellow }[Model Evaluation: Training, Validation and Testing](https://drive.google.com/file/d/17m3T5Un_kiaWvDtrL_Zcg7k2L7OwaPbE/view?usp=drive_link)
